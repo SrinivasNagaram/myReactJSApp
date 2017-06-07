@@ -1,2 +1,5 @@
-# myReactJSApp
-My First ReactJS App
+# My First ReactJS App 
+
+Download zip file and install npm
+
+$ npm install
